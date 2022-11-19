@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Food</string>
+
+    <string name="menu_drink">Drink</string>
+    <string name="menu_fruit">Fruit</string>
+    <string name="menu_noodle">Noodle</string>
+    <string name="menu_default">Default</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="tv_name">Name</string>
+    <string name="et_name">Input Name</string>
+
+    <string name="iv_icon">ImageView Icon</string>
+    <string name="iv_add">ImageView Add</string>
+    <string name="iv_delete">ImageView Delete</string>
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+
+    <string name="toast_key_down">Press the back button once more to exit</string>
 </resources>
